@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Tour-page/static/css/main.c3e53c0d.chunk.css",
+    "main.js": "/Simple-Tour-page/static/js/main.2045c896.chunk.js",
+    "main.js.map": "/Simple-Tour-page/static/js/main.2045c896.chunk.js.map",
+    "runtime-main.js": "/Simple-Tour-page/static/js/runtime-main.11072fa3.js",
+    "runtime-main.js.map": "/Simple-Tour-page/static/js/runtime-main.11072fa3.js.map",
+    "static/js/2.b79bb511.chunk.js": "/Simple-Tour-page/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/Simple-Tour-page/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/Simple-Tour-page/index.html",
+    "precache-manifest.d249f894aeb7bdc70654b5697cd51d62.js": "/Simple-Tour-page/precache-manifest.d249f894aeb7bdc70654b5697cd51d62.js",
+    "service-worker.js": "/Simple-Tour-page/service-worker.js",
+    "static/css/main.c3e53c0d.chunk.css.map": "/Simple-Tour-page/static/css/main.c3e53c0d.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/Simple-Tour-page/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11072fa3.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.c3e53c0d.chunk.css",
+    "static/js/main.2045c896.chunk.js"
+  ]
+}
